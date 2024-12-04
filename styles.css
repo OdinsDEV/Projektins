@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;    /* Center vertically */
+    height: 100vh;          /* Full viewport height */
+    margin: 0;              /* Remove default margins */
+    background: #282c34;    /* Dark background */
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  p:hover {
+    color: #fff;
+    background: #6a0572; /* Purple background on hover */
+    transition: background 0.3s ease, color 0.3s ease;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  p.important {
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.8;
+    color: #fff;
+    background: #f76c6c; /* Light red background */
+    padding: 15px;
+    border-radius: 10px;
+  }
+      
