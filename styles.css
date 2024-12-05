@@ -10,7 +10,7 @@ body {
   }
   p:hover {
     color: #fff;
-    background: #6a0572; /* Purple background on hover */
+    background: #d85518; /* Purple background on hover */
     transition: background 0.3s ease, color 0.3s ease;
     padding: 10px;
     border-radius: 5px;
