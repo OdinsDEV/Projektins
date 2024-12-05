@@ -24,4 +24,8 @@ body {
     padding: 15px;
     border-radius: 10px;
   }
-      
+img {
+  display: block; /* Ensures the image is on its own line */
+  margin-top: 1px; /* Adds space above the image */
+
+}      
